@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  *
- * @author smartgirl
+ * @author Lu Hong <luhong980306@163.com>
  */
 public class Solution2 {
     
