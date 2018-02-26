@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  *
- * @author smartgirl
+ * @author Lu Hong
  */
 public class MathUtil {
 
