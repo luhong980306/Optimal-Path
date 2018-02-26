@@ -7,7 +7,7 @@ package javaapplication15;
 
 /**
  *
- * @author Lu Hong <luhong@gionee.com>
+ * @author Lu Hong <luhong980306@163.com>
  */
 public class Solution1 {
     /*
